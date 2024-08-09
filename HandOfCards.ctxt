@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=HandOfCards
+comment0.text=\r\n\ The\ HandOfCards\ Class\r\n\ \r\n\ @author\ Dawit\ Ashenafi\ Getachew\r\n\ @version\ Version1\r\n\ @date\ 15-01-2024\r\n
+comment1.params=hand
+comment1.target=HandOfCards(java.util.ArrayList)
+comment2.params=deck
+comment2.target=void\ dealCard(Deck)
+comment3.params=cards
+comment3.target=void\ add(Card)
+comment4.params=
+comment4.target=void\ getPHand()
+comment5.params=
+comment5.target=void\ getDHand()
+comment6.params=
+comment6.target=int\ blackjackScore()
+numComments=7

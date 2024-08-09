@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Driver
+comment0.text=\r\n\ The\ Driver\ Class\r\n\ \r\n\ @author\ Dawit\ Ashenafi\ Getachew\r\n\ @version\ Version1\r\n\ @date\ 15-01-2024\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=deck\ playerHand
+comment2.target=void\ pTurn(Deck,\ HandOfCards)
+comment3.params=deck\ dealerHand
+comment3.target=void\ dTurn(Deck,\ HandOfCards)
+comment4.params=playerScore\ dealerScore
+comment4.target=void\ winner(int,\ int)
+numComments=5
